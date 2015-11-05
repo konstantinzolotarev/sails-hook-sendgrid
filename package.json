@@ -1,6 +1,6 @@
 {
   "name": "sails-hook-sendgrid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SendGrid support into your Sails.js application",
   "main": "index.js",
   "scripts": {
