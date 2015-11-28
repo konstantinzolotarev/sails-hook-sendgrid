@@ -3,6 +3,9 @@
   "version": "1.0.1",
   "description": "SendGrid support into your Sails.js application",
   "main": "index.js",
+  "sails": {
+    "isHook": true
+  },
   "scripts": {
     "test": "node ./node_modules/mocha/bin/mocha"
   },
