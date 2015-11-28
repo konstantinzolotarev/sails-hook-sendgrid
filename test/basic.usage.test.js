@@ -17,7 +17,7 @@ describe('Basic :: ', function () {
     expect(sails.sendgrid).to.be.ok;
   });
 
-  it('agenda should has all methods', function () {
+  it('sendgrid should has all methods', function () {
     expect(sails.sendgrid).to.have.property('send')
       .and.to.be.a('function');
   });
